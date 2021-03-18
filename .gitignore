@@ -1,0 +1,3 @@
+# Ignore .idea folder, .DS_Store, out and build folders
+.idea/*
+.DS_Storeg
